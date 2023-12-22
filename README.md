@@ -1,19 +1,17 @@
-# mdmoniruzzaman0.github.io
 # Md Moniruzzaman - Portfolio
 
-This is my portfolio website. It includes information about me, my projects, and how to contact me.
-
-## About Me
-
-Write a brief introduction about yourself here.
-
-## Projects
-
-List your projects here with details.
+## Introduction
+I am Md Moniruzzaman, a web developer based in Dhaka, Bangladesh, currently studying at BUET.
 
 ## Contact
+- **Email:** [mzaman.mim@gmail.com](mailto:mzaman.mim@gmail.com)
+- **Phone:** +8801734747998
+- **Location:** Dhaka, Bangladesh
+- **GitHub:** [YourGitHubUsername](https://github.com/YourGitHubUsername)
 
-- Email: your@email.com
+## Projects
+- Project 1: Description of project 1
+- Project 2: Description of project 2
 
-<!-- Add other contact information as needed -->
+<!-- Feel free to add more sections as needed -->
 
